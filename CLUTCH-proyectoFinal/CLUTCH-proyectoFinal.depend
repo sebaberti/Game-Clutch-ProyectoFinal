@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1701209584 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcioncargarnombres.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209535 c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funciones.h
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+
+1701209827 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionesdado.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209653 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionesjugar.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209717 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionesmanosjugadores.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209754 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionesmazo.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209959 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionmostrarestadisticas.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209873 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\funcionmostrarpuntos.cpp
+	"funciones.h"
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1701209508 source:c:\users\msi\desktop\poyecto-laboratorio1\clutch-proyectofinal\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	"funciones.h"
+
