@@ -1,4 +1,4 @@
-<h1>Pyoecto final materia Laboratorio 1 de UTN </h1>
+<h1>Proyecto final materia Laboratorio 1 de UTN </h1>
 CLUTCH es un juego de mesa para dos jugadores que se juega con cartas seleccionadas del mazo de la baraja francesa y un dado de seis caras.
 
 El objetivo del juego es lograr completar la secuencia de cada una de las fases del crecimiento de una gallina. De las 52 cartas de la baraja francesa, el juego requiere únicamente las figuras 10, J, Q, K y A de los cuatro palos.
